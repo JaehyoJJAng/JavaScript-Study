@@ -53,4 +53,5 @@ Bye
 ### 일정표
 | 주차 | 날짜 | 프로젝트 |  <img src="https://avatars.githubusercontent.com/u/91415701?v=4" width="50" height="50"> </br> JaehyoJJAng 
 | :--: | :--------------------------: | :--: | :-----------------: |
-| 1주차 | 12.25 | Hello World! 출력해보기 | - |
+| 1주차 | 12.26 | Hello World! 출력해보기 | O |
+| 1주차 | 12.26 | 자바스크립트 기본 문법 | O |
