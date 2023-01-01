@@ -1,4 +1,5 @@
 {
+  // 방법 (1)
   var printTriangle = (height) => {
     // 여기에 코드를 작성하세요
     var forCount = 0;
@@ -9,6 +10,20 @@
     }
   }
 }
+
+{
+  // 방법 (2)
+  var printTriangle = (height) => {
+    // 여기에 코드를 작성하세요
+    var forCount = 0;
+    var message = '';
+    for (;forCount <= height;) {
+      message += '*';
+      console.log(message)
+      forCount++;
+    }
+  }
+} 
 
 // 테스트 코드
 console.log('높이: 1');
